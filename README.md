@@ -1,2 +1,2 @@
-# Exercise 2: Sentiment_Analysis
+# Exercise 2: Sentiment Analysis
 NLP master assignment
